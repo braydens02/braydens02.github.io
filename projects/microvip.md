@@ -19,4 +19,4 @@ From this project I developed much stronger abilities in Python coding and worki
 
 Below is an example of the grading of the embryos we did with neural networks:
 
-<img src="../img/microvip.png" width="600" height="400">
+<img src="../img/microvip.png" width="750" height="400">
