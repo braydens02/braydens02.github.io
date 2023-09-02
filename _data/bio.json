@@ -10,15 +10,15 @@
     "location": { "address": "91-993 Maomao Loop", "postalCode": "96706", "city": "Ewa Beach", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "braydens02", "url": "http://github.com/braydens02" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" }
+      { "network": "linkedin", "username": "brayden-suzuki", "url": "https://www.linkedin.com/in/brayden-suzuki/" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Machine Learning" },
+    { "name": "Software Engineering" },
+    { "name": "Renewable Energy" },
+    { "name": "Computer Architecture" },
+    { "name": "Electrical Engineering" }
   ],
   "skills": [
     {
