@@ -17,6 +17,6 @@ Since we were given a relatively small amount of images labeled with the TE and 
 
 From this project I developed much stronger abilities in Python coding and working in teams on a major project.
 
-Some of my work on the GUI can be seen in this picture:
+Below is an example of the grading of the embryos we did with neural networks:
 
-<img src="microvip.png">
+<img src="../img/microvip.png" width="600" height="400">
