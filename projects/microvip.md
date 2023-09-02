@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Embryo.png
+image: img/Embryo.jpg
 title: "Embryo Image Analysis"
 date: 2022
 published: true
