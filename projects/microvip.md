@@ -19,11 +19,4 @@ From this project I developed much stronger abilities in Python coding and worki
 
 Some of my work on the GUI can be seen in this picture:
 
-<div class="row">
-  <div class="column">
-    <img src="microvip_icm.png">
-  </div>
-  <div class="column">
-    <img src="microvip_te.png">
-  </div>
-</div>
+<img src="microvip.png">
