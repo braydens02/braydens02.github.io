@@ -6,7 +6,8 @@ title: "JavaLicious"
 date: 2023-08-30
 published: true
 labels:
-  - Engineering
+  - Software Engineering
+  - Javascript
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/java.png">
