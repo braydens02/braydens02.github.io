@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/microvip_logo.png
+image: img/Embryo.png
 title: "Embryo Image Analysis"
 date: 2022
 published: true
