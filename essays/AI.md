@@ -6,7 +6,8 @@ title: "AI'm Tired of School"
 date: 2023-09-01
 published: true
 labels:
-  - Engineering
+  - Machine Learning
+  - Software Engineering
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/machinelearning.png">
