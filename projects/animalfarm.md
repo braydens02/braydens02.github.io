@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/1368_farm_animals_1200.jpg
+image: img/animalfarm.png
 title: "Animal Farm"
 date: 2022
 published: true
