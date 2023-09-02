@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/wide.jpg
+image: img/scellogo1.png
 title: "SCEL Firmware Team"
 date: 2023
 published: true
