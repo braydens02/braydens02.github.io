@@ -19,6 +19,6 @@ This project took us the entire semester. We constantly made changes as we learn
 
 Here's part of a class I had to write:
 
-<img src="../img/Screenshot 2023-09-01 132812.png" width="50" height="50">
+<img src="../img/Screenshot 2023-09-01 132812.png" width="500" height="200">
 
 The databases GitHub: <a href="https://github.com/braydens02/ee205-animal-farm"><i class="large github icon "></i>https://github.com/braydens02/ee205-animal-farm</a>
