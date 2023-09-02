@@ -40,15 +40,19 @@
       "courses": [ "Intro to Engineering Computation", "Object Oriented Programming", "Discrete Math I/II", "Introduction to Digital Design", "Digital Systems & Computer Design" ]
     }
   ],
-  "work": [
-  ],
   "volunteer": [
+     {
+      "title": "HKN Officer/Bridge Correspondent",
+      "date": "2023-Present",
+      "organization": "Eta Kappa Nu Delta Omega Chapter",
+      "summary": "Officer in the IEEE-HKN honor society for electrical and computer engineers. In charge of chapter activity reports, planning social & outreach events, and assisting in managing the chapter to foster HKN's mission of technological innovation and excellence."
+    }
   ],
   "awards": [
     {
       "title": "Dean's List Fall 2020 - Spring 2023",
       "date": "2020-Present",
-      "awarder": "State of Hawaii",
+      "awarder": "University of Hawaii at Manoa",
       "summary": "The Dean's List recognizes students with a superior academic record. The minimum grade point average being 3.5 for 12 or more credits of academic coursework."
     }
   ],
