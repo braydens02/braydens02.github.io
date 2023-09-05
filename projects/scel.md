@@ -18,4 +18,4 @@ I was with this lab last semester for my junior project and I am currently with 
 
 <img src="../img/scel_applebox.png" width="450" height="400">
 
-The SCEL Github: https://github.com/scel-hawaii/control-tower
+The SCEL GitHub: <a href="https://github.com/scel-hawaii/control-tower"><i class="large github icon "></i>https://github.com/scel-hawaii/control-tower</a>
