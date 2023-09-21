@@ -24,4 +24,4 @@ From a software engineer’s perspective, I believe that Javascript is a good pr
 
 I actually quite like athletic software engineering. Having practice WODs as well as the real WODs in class gives me a lot of practice and they aren’t as stressful as coding large projects where I feel like I’m spending 90% of my time debugging random errors. 
 
-It also ensures that I keep up with the class curriculum since they occur quite often. Although having these forms of “quizzes” is stressful to have so frequently, I still think that it’s a good form of learning overall. I think that this format of learning is well-suited for me since I tend to procrastinate on large assignments whose due dates are far away.
+It also ensures that I keep up with the class curriculum since they occur quite often. I get to learn a lot while the class still feels manageable. Although having these forms of “quizzes” is stressful to have so frequently, I still think that it’s a good form of learning overall. I think that this format of learning is well-suited for me since I tend to procrastinate on large assignments whose due dates are far away.
