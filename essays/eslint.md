@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Linting With ESLint:"A Process"
+title: "Linting With ESLint: A Process"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-20
 published: true
