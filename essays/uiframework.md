@@ -11,7 +11,7 @@ labels:
   - UI Frameworks
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/eslint.png">
+<img width="200px" class="rounded float-start pe-4" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png">
 
 ## What is Bootstrap 5?
 
