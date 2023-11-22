@@ -11,7 +11,7 @@ labels:
   - Artificial Intelligence
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/AI-page.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/AI-image.png">
 
 ## AI in Education
 
