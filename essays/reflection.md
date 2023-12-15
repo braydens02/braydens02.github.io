@@ -12,9 +12,9 @@ labels:
   - Coding Standards
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/machinelearning.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/funny-graduation-girl-cartoon-vector-26816806.jpg">
 
-## Introduction
+## Beyond The Classroom
 
 As my time with ICS 314 comes to an end, as well as my time as a computer engineering major at UH Manoa, I’d like to look back and reflect on the topics I’ve learned in ICS 314 and how I can apply them in different fields beyond web application development. During this course, we’ve covered a wide array of topics such as Functional Programming, Development Environments, and Coding Standards. Moving forward, I would like to consider how I can apply these topics and the lessons I learned in ICS 314 beyond the classroom.
 
@@ -30,7 +30,7 @@ Development environments were another early concept that we covered in this cour
 
 The last concept I wanted to talk about was coding standards. Coding standards was a topic that we learned midway through this course, and we continued to use it throughout the rest of the semester as we moved on to creating Meteor and React applications. The coding standard that we followed as ESLint, a coding analysis tool for Javascript. While some of the other students found ESLint to be a pain, I actually liked enforcing a certain set of rules upon myself to keep code readable and usable. Whenever I would run ESLint and fix the errors, I often found that the code looked much cleaner and it was easier to read and understand, something that is imperative in programming in a work environment. There are seldom situations where you start and complete an entire program completely by yourself, and even then, other people will still have to look at your code later to debug or add new features. Therefore, keeping a certain coding standard is important not only for yourself, but it helps others use your code when you are working on a team. 
 
-## Conclusion
+## The End
 
 This semester, I was able to learn a lot about software engineering and the skills necessary to be a programmer from this class. Functional programming, development environments, and coding standards were a few of the many topics we covered. While I am interested in web application development as a career, if I were to end up in a different field, I am sure that the skills and tools I learned from this class will still prove to be useful. 
 
