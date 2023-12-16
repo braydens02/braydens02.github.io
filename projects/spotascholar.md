@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/animalsquare.png
+image: img/v4-460px-Form-a-Study-Group-Step-161.jpg
 title: "Spot a Scholar"
 date: 2022
 published: true
