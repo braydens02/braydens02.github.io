@@ -1,0 +1,59 @@
+{
+  "basics": {
+    "name": "Brayden Suzuki",
+    "label": "Student",
+    "picture": "https://github.com/braydens02.png",
+    "email": "braydens@hawaii.edu",
+    "phone": "808-499-9558",
+    "website": "https://braydens02.github.io",
+    "summary": "I am studying for a B.S. in Computer Engineering in the Department of Electrical & Computer Engineering at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "location": { "address": "91-993 Maomao Loop", "postalCode": "96706", "city": "Ewa Beach", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "braydens02", "url": "http://github.com/braydens02" },
+      { "network": "linkedin", "username": "brayden-suzuki", "url": "https://www.linkedin.com/in/brayden-suzuki/" }
+    ]
+  },
+  "interests": [
+    { "name": "Machine Learning" },
+    { "name": "Software Engineering" },
+    { "name": "Renewable Energy" },
+    { "name": "Computer Architecture" },
+    { "name": "Electrical Engineering" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Javascript", Python", "SystemVerilog", "VHDL", "MATLAB" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "Windows", "Linux" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Engineering (expected Spring, 2018)",
+      "studyType": "B.S.",
+      "startDate": "2020-09-01",
+      "endDate": "Present",
+      "courses": [ "Intro to Engineering Computation", "Object Oriented Programming", "Discrete Math I/II", "Introduction to Digital Design", "Digital Systems & Computer Design" ]
+    }
+  ],
+  "volunteer": [
+     {
+      "title": "HKN Officer/Bridge Correspondent",
+      "date": "2023-Present",
+      "organization": "Eta Kappa Nu Delta Omega Chapter",
+      "summary": "Officer in the IEEE-HKN honor society for electrical and computer engineers. In charge of chapter activity reports, planning social & outreach events, and assisting in managing the chapter to foster HKN's mission of technological innovation and excellence."
+    }
+  ],
+  "awards": [
+    {
+      "title": "Dean's List Fall 2020 - Spring 2023",
+      "date": "2020-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "The Dean's List recognizes students with a superior academic record. The minimum grade point average being 3.5 for 12 or more credits of academic coursework."
+    }
+  ]
+}
